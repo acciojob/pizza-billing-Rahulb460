@@ -32,7 +32,7 @@ public class Pizza {
         this.isToppingsAdded = false;
         this.isCheeseAdded = false;
 
-        this.bill = "Base Price of the Pizza: " + this.price + "\n";
+        this.bill = "Base Price Of The Pizza: " + this.price + "\n";
         // your code goes here
     }
 
